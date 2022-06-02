@@ -1,6 +1,3 @@
-// sr04 to apm I2c sonar
-// by panxu mail: pxzleo@126.com
-// Created 2014
 #include <Wire.h>
 #include "SR04.h"
 #define TRIG_PIN 2
